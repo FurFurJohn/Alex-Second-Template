@@ -1,7 +1,7 @@
 # Site settings
 title: Yue (Alex) Jiang
 description: DSCI 521 Data Science Second Templat
-baseurl:  /blog
+baseurl:  /Alex-Second-Template
 url: http://FurFurJohn.github.io # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
